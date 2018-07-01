@@ -11,7 +11,7 @@
        href="<?php echo ROOT_PATH; ?>shares/add">
         Share Now
     </a>
-    <?php //print_r($viewmodel); ?>
+    <?php //var_dump($viewmodel); ?>
     <?php foreach ($viewmodel as $item) : ?>
         <div class="well">
             <h3><?php echo $item['title']; ?></h3>
