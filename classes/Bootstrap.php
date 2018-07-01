@@ -28,7 +28,7 @@ class Bootstrap{
         else{
             $this->action = $this->request['action'];
         }
-        echo $this->controller;
+        //echo $this->controller;
     }
 
 

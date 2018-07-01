@@ -10,7 +10,7 @@
 define("DB_HOST", "localhost");
 define("DB_USER", "root");
 define("DB_PASS", "asdf1234");
-define("DB_NAME", "mvc-framework");
+define("DB_NAME", "shareboard");
 
 
 //Define URL
